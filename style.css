@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    background: rgb(9, 49, 12);
+    background: linear-gradient(0deg, rgba(34,195,47,1) 0%, rgba(48,45,253,1) 100%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navegador{
+    color: white;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.botoncitos{
+    color: white;
+     list-style: none;
+     display: flex;
+     justify-content: flex-end;
+     margin-top: -20px;
+     background-color:black;
+     width: 100%;
+}
+
+.boton{
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.oneboton{
+    border-radius: 5px;
+    background-color: royalblue;
+    margin: 5px;
+    height: 30px;
+}
+
+.buscar{
+    text-align: center;
+    font-size: 30px;
+    margin-top:70px;
+}
+
+.input{
+    font-size: 30px;
+    padding: 0px 20px;
+    border-radius: 10px;
+}
+
+.git{
+    height: 80px;
+    margin-right: 10px;
+}
+
+.logo{
+    height: 80px;
+    margin-right: 10px;
+}
+
+.dicord{
+    height: 100px;
+    margin-right: 10px;
+}
+
+.doble{
+    height: 100px;
+    margin-left: 12px;
+    margin-right: 10px;
+}
+
+.css{
+    height: 100px;
+    margin-right: 10px;
+}
+
+.html{
+    height: 100px;
+    margin-left: 50px;
+    
+}
+
+.todo{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+
+.ultimito-añañai{
+    margin-top: 100px;
+    margin-left: 310px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.yoyo{
+    color:black;
+    text-decoration: none;
+}
+
+.contenido{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
